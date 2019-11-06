@@ -1,1 +1,1 @@
-# wicked-rust-cli-thingy
+# cargo run -- -d 20 -w twoTimer | forsenCD
